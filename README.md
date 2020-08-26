@@ -18,7 +18,7 @@ npm run serve
 
 ## 项目预览地址
 
-[mushroon](https://xiaoxo.giett.io/mushroon)
+[mushroon](https://xiaoxo.gitee.io/mushroon)
 
 ### Compiles and minifies for production
 
